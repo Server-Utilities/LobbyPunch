@@ -1,0 +1,4 @@
+name: LobbyPunch
+version: '${version}'
+main: tv.quaint.lobbypunch.LobbyPunch
+api-version: 1.18
